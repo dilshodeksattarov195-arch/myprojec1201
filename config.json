@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsutringify",
+        "uuid": 9692070,
+        "checksum": "911u2o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
